@@ -1,0 +1,24 @@
+Main pages
+  - policies browser
+  - user profile
+  - 
+
+Each proposed policy has:
+  - title + version
+  - country+city(optional) / region / applicable to multiple countries / global
+  - short descr (optional)
+  - long descr:
+    * perceived problem, evidence
+    * proposed policy, evidence
+    * cost
+    * when to expect the fst results
+    * open Qs (optional)
+    * refs
+  - tags (detailed, general, animal wellbeing, long-term, effective altruism, etc + custom tags)
+  - edit history (link)
+  - author/forker/collaborators/contributors
+  - comments (per section? debates?)
+
+Each
+
+Questions:
